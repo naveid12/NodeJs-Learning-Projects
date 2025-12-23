@@ -1,1 +1,2 @@
 this is frit file
+add another text in one txt file.
